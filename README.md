@@ -1,11 +1,18 @@
 ## Consideraciones
 
-No se aplico enviroment con el apikey para facilitar el uso en cualquier computadora.
-Se hizo una modulacion/componetizacion basica - Solo para los services debido a que el proyecto era sencillo. Se identifico los posibles componentes como (Searchbar, Sidebar, GifItem, SearchBarItem).
-Se mantubo el proyecto en una sola pagina sin uso de rutas porque no era necesario.
-En esta oportunidad no aplique el uso de interfaces para el proyecto para validr datos de la llamada a la api
+- Ve a la carpeta del proyecto
+- ng serve
+- [Sitio web en local](http://localhost:4200/) o usar el que la terminal mencione, usualmente es http://localhost:4200
 
-Espero estos puntos sean de su consideracion y le ayude a evular a otros candidatos tambien
+
+## Consideraciones
+
+- No se aplico enviroment con el apikey para facilitar el uso en cualquier computadora.
+- Se hizo una modulacion/componetizacion basica - Solo para los services debido a que el proyecto era sencillo. Se identifico los posibles componentes como (Searchbar, Sidebar, GifItem, SearchBarItem).
+- Se mantubo el proyecto en una sola pagina sin uso de rutas porque no era necesario.
+- En esta oportunidad no aplique el uso de interfaces para el proyecto para validar datos de la llamada a la api
+
+- Espero estos puntos sean de su consideracion y le ayude a evular a otros candidatos tambien, saludos.
 
 
 
