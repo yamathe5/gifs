@@ -1,3 +1,14 @@
+## Consideraciones
+
+No se aplico enviroment con el apikey para facilitar el uso en cualquier computadora.
+Se hizo una modulacion/componetizacion basica - Solo para los services debido a que el proyecto era sencillo. Se identifico los posibles componentes como (Searchbar, Sidebar, GifItem, SearchBarItem).
+Se mantubo el proyecto en una sola pagina sin uso de rutas porque no era necesario.
+En esta oportunidad no aplique el uso de interfaces para el proyecto sobretodo para validar los datos
+
+Espero estos puntos sean de su consideracion y le ayude a evular a otros candidatos tambien
+
+
+
 # Gifs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
